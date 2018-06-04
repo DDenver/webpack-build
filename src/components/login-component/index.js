@@ -1,5 +1,5 @@
-import './login-component';
-import html from './login-component';
+import './login-component.css';
+import html from './login-component.html';
 
 import LoginComponent from './login-component';
 
